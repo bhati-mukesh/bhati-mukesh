@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :tea:
 
-**Languages:**  
-
+<!-- **Languages:**  -->
+## ⚡ Technologies
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
