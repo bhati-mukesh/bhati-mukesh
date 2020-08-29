@@ -35,17 +35,17 @@ Here are some ideas to get you started:
 
 <br>
 
-  <a href="https://www.linkedin.com/in/mukesh777">
+  <a href="https://www.linkedin.com/in/mukesh1777">
     <img align="left" alt="Mukesh Bhati | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/mukesh_444_">
     <img align="left" alt="Mukesh Bhati | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/mukesh_444_">
+    <img align="left" alt="Mukesh Bhati | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:mukeshbhati24@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Mukesh Bhati | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
 <br><br>
