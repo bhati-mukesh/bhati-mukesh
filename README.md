@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -  **Hobbies :** Music :headphones:
 -  **Pronouns :** He/Him/His :innocent:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :tea:
 
 - Learning
 
