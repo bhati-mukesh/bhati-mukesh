@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 ---
 
-⭐️ From [mukesh](http://www.github.com/bhati-mukesh)
+⭐️ From [Mukesh](http://www.github.com/bhati-mukesh)
